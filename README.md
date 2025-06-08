@@ -1,6 +1,6 @@
 ## Hello hello! Welcome to my profile. 
 
-- I'm currently working on applying SQL and Python skills from my postgraduate in Data Science to my role as Manager of Marketing Analytics
+- I'm currently applying SQL and Python skills from my postgraduate in Data Science to my role as Manager of Marketing Analytics
 - I’m currently learning SQL best practices with other Data Scientists in my company 
 - Ask me about strategy and process in Marketing Analytics
 - Share with me your signature coding practices, your favorite easter egg you've ever found/planted, or a solid GIF  
